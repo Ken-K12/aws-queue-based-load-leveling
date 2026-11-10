@@ -1,0 +1,9 @@
+# Build artifacts
+*.zip
+# Temporary JSON files
+attrs.json
+trust.json
+# Credentials (never commit)
+.env
+*.pem
+.aws/
